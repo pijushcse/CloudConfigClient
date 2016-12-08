@@ -1,4 +1,4 @@
-package com.pilab.xyz;
+package com.pilab.xyz.cloud.client;
 
 import java.util.Arrays;
 import java.util.List;
